@@ -1,7 +1,7 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "minima"
+  spec.name          = "david-minima"
   spec.version       = "2.1.0"
   spec.authors       = ["Joel Glovier"]
   spec.email         = ["jglovier@github.com"]
